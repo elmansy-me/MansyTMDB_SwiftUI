@@ -28,6 +28,11 @@ MansyTMDB (The Movie DB) App is an iOS application built using SwiftUI, Combine,
 
 - **Search Movies**: Utilize the search page to search for a specific movie by entering its name.
 
+### Movie Details Page
+
+- Get detailed information about each movie, including movie poster, name, release date, rating, and whether it's suitable for adults or not.
+- Learn about the production companies behind the movies.
+
 ## Technologies
 
 - **SwiftUI**: Leveraging Apple's modern UI framework to create a delightful and intuitive user interface with rich animations and interactive components.
