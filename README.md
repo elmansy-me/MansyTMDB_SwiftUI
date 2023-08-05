@@ -33,6 +33,15 @@ MansyTMDB (The Movie DB) App is an iOS application built using SwiftUI, Combine,
 - Get detailed information about each movie, including movie poster, name, release date, rating, and whether it's suitable for adults or not.
 - Learn about the production companies behind the movies.
 
+## Additional Features
+
+- **Dark Mode Support**: Enjoy MansyTMDB App in both light and dark mode, depending on your preference and the system settings.
+
+- **All Orientations Supported**: The app seamlessly adapts to both portrait and landscape orientations, allowing you to explore movies from any angle.
+
+- **iPad Support**: MansyTMDB App offers full support for iPad devices.
+
+
 ## Technologies
 
 - **SwiftUI**: Leveraging Apple's modern UI framework to create a delightful and intuitive user interface with rich animations and interactive components.
