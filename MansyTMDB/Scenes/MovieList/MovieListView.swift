@@ -16,7 +16,7 @@ struct MovieListView: View {
             ForEach(viewModel.list, id: \.id) { data in
                 NavigationLink(destination: movieDetailsView(movieId: data.id)) {
                     MovieListMovieView(data: data)
-                        .foregroundColor(.black)
+                        .foregroundColor(Color(.label))
                 }
             }
             if viewModel.isAbleToLoadMore{

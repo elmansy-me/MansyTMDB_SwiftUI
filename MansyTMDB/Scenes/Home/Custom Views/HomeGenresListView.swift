@@ -23,7 +23,7 @@ struct HomeGenresListView: View {
                                 .background(Color(UIColor.systemGroupedBackground))
                                 .cornerRadius(8)
                                 .font(.subheadline)
-                                .foregroundColor(.black)
+                                .foregroundColor(Color(.label))
                         }
                     }
                 }

@@ -40,7 +40,7 @@ struct MovieListMovieView: View {
             }
             .padding([.leading, .trailing], 4)
         }
-        .background(.white)
+        .background(Color(.systemBackground))
         .frame(height: 90)
         .cornerRadius(4)
         .clipped()

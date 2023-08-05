@@ -11,7 +11,7 @@ struct LoadingView: View {
     
     var body: some View {
         ProgressView("Loading ...")
-            .foregroundColor(.black)
+            .foregroundColor(Color(.label))
             .padding()
     }
 }

@@ -20,7 +20,7 @@ struct HomeMovieListView: View {
                     ForEach(list, id: \.id) { data in
                         NavigationLink(destination: movieDetailsView(movieId: data.id)) {
                             HomeMovieView(data: data)
-                                .foregroundColor(.black)
+                                .foregroundColor(Color(.label))
                         }
                     }
                 }

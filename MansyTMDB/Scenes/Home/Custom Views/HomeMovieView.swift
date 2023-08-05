@@ -35,7 +35,7 @@ struct HomeMovieView: View {
             }
             .padding([.leading, .trailing], 4)
         }
-        .background(.white)
+        .background(Color(.systemBackground))
         .frame(width: 140, height: 225)
         .cornerRadius(4)
         .clipped()
