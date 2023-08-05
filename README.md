@@ -76,6 +76,9 @@ To run the app locally, follow these steps:
 
 3. Build and run the app on a simulator or real iOS device.
 
+## Third party libraries
+
+- **SwiftUI-Cached-Async-Image**: Load images asynchronously and cache them for improved performance.
 
 ## Finally
 
